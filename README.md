@@ -3,7 +3,7 @@
 Config finder shell
 
 
-'''
+```
 
 $ apt update 
 
@@ -15,4 +15,4 @@ $ cd configfinder
 
 $ python2 shell.py
 
-'''
+```
