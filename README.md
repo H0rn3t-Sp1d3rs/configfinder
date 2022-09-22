@@ -1,6 +1,6 @@
-# configfinder
+# config finder 
 
-Config finder shell
+Config shell finder
 
 
 ```
@@ -18,7 +18,7 @@ $ cd configfinder
 $ python2 Shell.py
 
 ```
-<br>![Screenshot_20220923-003933](https://user-images.githubusercontent.com/97798085/191826040-c6a39c5b-13cf-4f3b-9a7d-5eb68bc3af36.png)
+<br>![bd](https://user-images.githubusercontent.com/97798085/191826040-c6a39c5b-13cf-4f3b-9a7d-5eb68bc3af36.png)
 
 <br>
 <h3 align="left">Contact with me:</h3>
