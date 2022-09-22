@@ -25,7 +25,7 @@ def Space(j):
 def findAdmin():
 	f = open("bd.txt","r");
 	link = raw_input(" www.example.com ): ")
-	print "\n\nUrl  : \n"
+	print "\n Find Url =>  "
 	while True:
 		sub_link = f.readline()
 		if not sub_link:
